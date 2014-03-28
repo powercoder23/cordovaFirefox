@@ -1,0 +1,4 @@
+cordovaFirefox
+==============
+
+Cordova Firefox App
